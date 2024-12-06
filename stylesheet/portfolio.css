@@ -229,7 +229,7 @@ footer {
 /* This class is applied to the column in the final row, overriding the height and padding to provide more room for the contact form while keeping the rest of the formatting from Column_1 and Column_2 */ 
 .Column_tall {
     padding-top: 3.5%;
-    height: 460px; /* Im going to change this because it form peaks threw */
+    height: 460px; /* Im going to change this because it form peaks threw was originally 450px */
 }
 
 /* This inserts something after the contect of selected elements (in this case the elements with class "Row") */
