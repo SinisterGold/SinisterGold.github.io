@@ -2,4 +2,4 @@
 
 ## Welcome to my portfolio website <br>
 * ### This wesite was created with CSS and JavaScript.<br>
-* ### This website cover my credentials along with havign a way to contact me.
+* ### This website covers my credentials along with a contact form if you need to reach me.
