@@ -1,3 +1,5 @@
-# SinisterGold.github.io
+# Portfolio Website
 
-Still under construction. Once this project is completed it will be used as my portfolio
+Welcome to my portfolio website
+This wesite was created with CSS and JavaScript.
+This website cover my credentials along with havign a way to contact me.
